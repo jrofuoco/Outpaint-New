@@ -1,2 +1,2 @@
-# Outpaint-New
+# outpainting
 To extend a image size
